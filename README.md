@@ -1,6 +1,13 @@
 # Minesweeper
 A Minesweeper on Python using Tkinter and random
 
+
+I am not a huge fan of Minesweeper. I did 3 versions but it was for an other purpose:
+My girlfriend does not know this game. I wanted to show her but every online Minesweeper game has to be played with FlashPlayer (which I don't want to install).
+I decided then to create my own game, fully playable on every laptop (with a simple Python installation) and completely configurable.
+This way, I can configure the number of mines and ajust the difficulties to give her the best experience.
+
+
 I uploaded 3 versions of Minesweeper.
 
 Minesweeper v1
